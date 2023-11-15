@@ -11,11 +11,11 @@ Within the ambit of business understanding, our focal task involved a meticulous
 
 ## Data Understanding
 
-This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file Walmart_Store_sales. Refer to (Walmart Dataset)[https://www.kaggle.com/datasets/yasserh/walmart-dataset/data] for more informations.
+This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file Walmart_Store_sales. Refer to [Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset/data) for more informations.
 
 ## Visualization
 
-Following the execution of Exploratory Data Analysis (EDA) using Python to refine and cleanse our dataset, we seamlessly transitioned into the realm of data visualization using Tableau Public. Leveraging the advanced capabilities of Tableau, we meticulously crafted an interactive dashboard that serves as a dynamic visualization of our analytical findings. This user-friendly interface encapsulates the essence of our insights, allowing stakeholders to explore the nuances of the data effortlessly. For your convenience, the interactive dashboard is accessible through the following (link)[https://public.tableau.com/app/profile/riad.madouni/viz/WalmartAnalysis_16998897096320/Tableaudebord2], providing a comprehensive and visually engaging overview of our data-driven discoveries.
+Following the execution of Exploratory Data Analysis (EDA) using Python to refine and cleanse our dataset, we seamlessly transitioned into the realm of data visualization using Tableau Public. Leveraging the advanced capabilities of Tableau, we meticulously crafted an interactive dashboard that serves as a dynamic visualization of our analytical findings. This user-friendly interface encapsulates the essence of our insights, allowing stakeholders to explore the nuances of the data effortlessly. For your convenience, the interactive dashboard is accessible through the following [link](https://public.tableau.com/app/profile/riad.madouni/viz/WalmartAnalysis_16998897096320/Tableaudebord2), providing a comprehensive and visually engaging overview of our data-driven discoveries.
 
 ## Conclusion
 
