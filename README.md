@@ -1,6 +1,10 @@
 # EDA-on-walmart-dataset
 Performing EDA (Exploratory Data Analysis) to gather more informations about walmart sales.
 
+<div style="text-align:center">
+    <img src="images/Emblem-Walmart.PNG" alt="Image Description" />
+</div>
+
 ## Overview
 
 In the initial phase of our comprehensive analysis, we rigorously conducted Exploratory Data Analysis (EDA) on a sizable dataset obtained from Walmart. This multifaceted process involved a systematic exploration of the data, followed by meticulous structuring through advanced feature engineering techniques. Subsequently, a thorough data cleaning and taking out outliers to ensure the reliability and accuracy of the dataset. Without delay, we transitioned seamlessly into the visualization stage, employing sophisticated techniques to distill meaningful insights from the data. This strategic progression from foundational exploration to insightful visualization is pivotal in unraveling valuable patterns and trends, forming the bedrock of our analytical endeavors and decision-making processes.
