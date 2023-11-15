@@ -2,7 +2,7 @@
 Performing EDA (Exploratory Data Analysis) to gather more informations about walmart sales.
 
 <div style="text-align:center">
-    <img src="images/Emblem-Walmart.PNG" alt="Image Description" />
+    <img src="images/Emblem-Walmart.jpg" alt="Image Description" />
 </div>
 
 ## Overview
